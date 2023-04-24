@@ -1,13 +1,13 @@
 {
   "name": "nodestatus-server",
-  "version": "1.2.7-beta.4-midori-apr24",
+  "version": "1.2.7-beta.4-amcjcy-apr24",
   "repository": {
     "type": "git",
-    "url": "https://github.com/midori01/nodestatus.git",
+    "url": "https://github.com/amcjcy/nodestatus.git",
     "directory": "packages/nodestatus-server"
   },
   "license": "MIT",
-  "author": "midori01",
+  "author": "amcjcy",
   "main": "index.js",
   "bin": {
     "status-server": "bin/status-server.js",

@@ -2,9 +2,9 @@
   "name": "nodestatus",
   "version": "0.0.0",
   "private": true,
-  "repository": "https://github.com/midori01/nodestatus.git",
+  "repository": "https://github.com/amcjcy/nodestatus.git",
   "license": "MIT",
-  "author": "midori01",
+  "author": "amcjcy",
   "main": "index.js",
   "engines": {
     "node": ">=14"

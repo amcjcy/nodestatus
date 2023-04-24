@@ -1,6 +1,6 @@
 FROM node:18-slim as builder
 
-LABEL maintainer="midori01"
+LABEL maintainer="amcjcy"
 
 WORKDIR /app
 COPY . /app
